@@ -1,4 +1,4 @@
-# Rolls the dice three times to initialze points
+# Rolls the dice three times to initialize points
 import random
 
 def dice_roll():
